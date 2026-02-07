@@ -157,7 +157,7 @@ export const Hero = () => {
                 {/* Image */}
                 <div className="relative overflow-hidden rounded-3xl bg-gradient-to-br from-slate-500 to-slate-500">
                   <img
-                    src="public\IMG_1558 (3).jpg"
+                    src="/IMG_1558 (3).jpg"
                     alt="Harsh Immadi"
                     className="w-full h-auto aspect-square object-cover rounded-2xl"
                   />

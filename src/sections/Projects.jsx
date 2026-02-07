@@ -6,7 +6,7 @@ const projects = [
     title: "AI-Powered Resume Screening And Ranking System",
     description:
       "AI-powered resume screening system that ranks candidates by matching resumes with job descriptions using NLP and ML.",
-    image: "public/Projects/Resume image.png",
+    image: "/Projects/Resume image.png",
     tags: ["Python", "NLP", "Scikit-learn"],
     link: "https://github.com/iharsh70/AI-Powered-Resume-Screening-And-Ranking-System/blob/main/README.md",
     github: "https://github.com/iharsh70/AI-Powered-Resume-Screening-And-Ranking-System/blob/main/README.md",
@@ -15,7 +15,7 @@ const projects = [
     title: "IMS - SmartInventory System with POS & Expiry Tracking",
     description:
       "A full-stack inventory management system that enables real-time stock tracking, expiry monitoring, demand forecasting, and POS integration to optimize business operations.",
-    image: "public/Projects/IMS image.webp",
+    image: "/Projects/IMS image.webp",
     tags: ["MySQL", "PHP", "JavaScript"],
     link: "https://github.com/iharsh70/Inventory-Management-System-SEAD/blob/main/Inventary-Management-System-IMS-/README.md",
     github: "https://github.com/iharsh70/Inventory-Management-System-SEAD/blob/main/Inventary-Management-System-IMS-/README.md",
@@ -24,7 +24,7 @@ const projects = [
     title: "Real Time Collaboration Tool",
     description:
       "A MERN-based document editor that enables rich text formatting, multimedia support, and real-time collaborative editing to improve productivity and workflow efficiency.",
-    image: "public/Projects/Real time image.webp",
+    image: "/Projects/Real time image.webp",
     tags: ["MongoDB", "Express.js", "React", "Node.js"],
     link: "https://github.com/iharsh70/EY-MERN-",
     github: "https://github.com/iharsh70/EY-MERN-",
@@ -33,7 +33,7 @@ const projects = [
     title: "Social Media Content Automation for News Agencies",
     description:
       "An AI-powered multimodal system that automatically generates tweet-length news summaries by fusing text and images using NLP and computer vision models.",
-    image: "public/ChatGPT Image Feb 7, 2026, 12_24_05 PM.png",
+    image: "/ChatGPT Image Feb 7, 2026, 12_24_05 PM.png",
     tags: ["Python", "BLIP", "FastAPI", "MongoDB"],
     link: "",
     github: "",
@@ -42,7 +42,7 @@ const projects = [
     title: "Mutual Fund Analysis",
     description:
       "This mutual fund analysis project focuses on identifying top 30 schemes with high return and low risk using Python, Excel, and Power BI.",
-    image: "public/Mutual.avif",
+    image: "/Mutual.avif",
     tags: ["Python", "Excel", "Power BI"],
     link: "https://github.com/iharsh70/Mutual-Fund-Analysis/tree/main/Mutual%20Fund%20Analysis/mutual-fund-analysis-Dashboard-Python-PowerBI",
     github: "https://github.com/iharsh70/Mutual-Fund-Analysis/tree/main/Mutual%20Fund%20Analysis/mutual-fund-analysis-Dashboard-Python-PowerBI",
@@ -51,7 +51,7 @@ const projects = [
     title: "Geo Vision - Deep Learning for Terrain Recognition",
     description:
       "AI-driven terrain recognition system for classifying land types and surface characteristics.",
-    image: "public/Geovision.jpg",
+    image: "/Geovision.jpg",
     tags: ["Python", "TensorFlow", "Keras", "OpenCV"],  
     link: "https://github.com/iharsh70/Deep-Learning-For-Terrain-Recognition",
     github: "https://github.com/iharsh70/Deep-Learning-For-Terrain-Recognition",
@@ -60,7 +60,7 @@ const projects = [
     title: "Image Generation Using Stable Diffusion and Comfy UI",
     description:
       "A text-to-image generation system that leverages Stable Diffusion with Comfy UI to create high-quality images from natural language prompts through an interactive interface.",
-    image: "public/Projects/Screenshot 2026-01-06 195709.png",
+    image: "/Projects/Screenshot 2026-01-06 195709.png",
     tags: ["Python", "Stable Diffusion", "Comfy UI"],
     link: "https://github.com/iharsh70/Techsaksham/blob/main/README.md",
     github: "https://github.com/iharsh70/Techsaksham/blob/main/README.md",
@@ -69,7 +69,7 @@ const projects = [
     title: "Ethical AI in Criminal Justice",
     description:
       "A machine learning system that predicts recidivism risk using COMPAS data while ensuring fairness, transparency, and bias analysis through explainable AI techniques like SHAP and LIME.",
-    image: "public/Projects/ethics-AI.webp",
+    image: "/Projects/ethics-AI.webp",
     tags: ["Python", "Scikit-learn", "SHAP", "LIME"],
     link: "https://github.com/iharsh70/Ethical-AI-in-Criminal-Justice",
     github: "https://github.com/iharsh70/Ethical-AI-in-Criminal-Justice",
@@ -78,7 +78,7 @@ const projects = [
     title: "Data Analysis on Doctor Visits",
     description:
       "A data analytics project that analyzes Superstore sales data to uncover trends in profitability, customer behavior, and inventory performance for data-driven retail decision-making.",
-    image: "public/Projects/Media-Data-Analysis.jpeg",
+    image: "/Projects/Media-Data-Analysis.jpeg",
     tags: ["Python", "Pandas", "Matplotlib", "Seaborn"],
     link: "https://github.com/iharsh70/DATA-ANALYSIS-ON-DOCTOR-VISITS",
     github: "https://github.com/iharsh70/DATA-ANALYSIS-ON-DOCTOR-VISITS",
